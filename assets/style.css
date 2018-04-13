@@ -14,11 +14,11 @@
          url('./font/goudy_mediaeval_regular-webfont.woff') format('woff');
     font-weight: normal;
     font-style: normal;
-
 }
+
 body{
   background: 	#ecf0f1;
-  font-family:  'goudy_mediaevalregular', sans-serif, Verdana;
+  font-family:  'Rubik', sans-serif, Verdana;
   padding-top: 5%;
   color: #2c3e50;
 }
